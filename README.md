@@ -33,11 +33,12 @@ kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-d
     git-hub condition (25mb).
  
 ## Links for project :
-- **Code for this project is present** [here](https://google.com)
-     - google
+- **Code for this project is present** [here](https://github.com/talhashaikh5/starbucks-reward-project/blob/main/Starbucks_Capstone_notebook.ipynb) 
+      - [Starbucks_Capstone_notebook.ipynb](https://github.com/talhashaikh5/starbucks-reward-project/blob/main/Starbucks_Capstone_notebook.ipynb)
 
-- **Blog Post Report for this project present** [here][here](https://google.com)
-     - google
+  
+
+- **Blog Post Report for this project present** [here](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78) - [starbucks reward project](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78)
 
 
 ## Licensing, Authors, Acknowledgements .
