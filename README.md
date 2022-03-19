@@ -38,7 +38,7 @@ kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-d
 
   
 
-- **Medium Blog Postt** [here](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78) - [starbucks reward project](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78)
+- **Medium Blog Postt** [here](https://medium.com/@talha.shaikh5/starbucks-reward-project-62933c3a45da) - [starbucks reward project](https://medium.com/@talha.shaikh5/starbucks-reward-project-62933c3a45da)
 
 
 ## Licensing, Authors, Acknowledgements .
