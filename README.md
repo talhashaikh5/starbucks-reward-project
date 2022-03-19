@@ -11,7 +11,7 @@ Our task is to combine transaction, demographic and offer data to determine whic
 Predicting the best offer type we company can give to the use based on the demographics. 
 
 ## Installations
-This project was written in Python, using Jupyter Notebook on Anaconda. The relevant Python packages for this project are as follows:
+This venture was written in Python, utilizing Jupyter Notebook on Anaconda. The pertinent Python bundles for this task are as per the following:
 
 - pandas
 - numpy
@@ -20,7 +20,7 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The rele
 - matplotlib
 - seaborn
 - sklearn.model_selection (train_test_split module)
-- sklearn.preprocessing (StandardScaler )
+- sklearn.preprocessing (MinMaxScaler )
 
 ## File Descriptions
 This repo contains 4 files. 
@@ -33,13 +33,30 @@ kaggle (https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-d
     git-hub condition (25mb).
  
 ## Links for project :
-- **Code for this project is present** [here](https://github.com/talhashaikh5/starbucks-reward-project/blob/main/Starbucks_Capstone_notebook.ipynb) 
+- **Jupyter Notebook** [here](https://github.com/talhashaikh5/starbucks-reward-project/blob/main/Starbucks_Capstone_notebook.ipynb) 
       - [Starbucks_Capstone_notebook.ipynb](https://github.com/talhashaikh5/starbucks-reward-project/blob/main/Starbucks_Capstone_notebook.ipynb)
 
   
 
-- **Blog Post Report for this project present** [here](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78) - [starbucks reward project](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78)
+- **Medium Blog Postt** [here](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78) - [starbucks reward project](https://medium.com/@talha.shaikh5/starbucks-rewards-project-d29e6df86d78)
 
 
 ## Licensing, Authors, Acknowledgements .
 Data for coding project was provided by Udacity.
+
+## Refrences:
+- [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+- Udacity Leactures
+- [https://pandas.pydata.org/](https://pandas.pydata.org/)
+- [https://stackoverflow.com](https://stackoverflow.com)
+- [Kaggle: Your Machine Learning and Data Science Community](https://www.kaggle.com/blacktile/starbucks-app-customer-reward-program-data)
+- [ML | Evaluation Metrics - GeeksforGeeks](https://www.geeksforgeeks.org/metrics-for-machine-learning-model/)
+- Book: Hands–On Machine Learning with Scikit–Learn and TensorFlow
+- [http://scikit-learn.org/stable/modules/naive_bayes.html](http://scikit-learn.org/stable/modules/naive_bayes.html)
+- [https://en.wikipedia.org/wiki/Multiclass_classification](https://en.wikipedia.org/wiki/Multiclass_classification)
+- [http://scikit-learn.org/stable/documentation.html](http://scikit-learn.org/stable/documentation.html)
+- [http://scikit-learn.org/stable/modules/tree.html](http://scikit-learn.org/stable/modules/tree.html)
+- [http://scikit-learn.org/stable/modules/svm.html#svm-kernels](http://scikit-learn.org/stable/modules/svm.html#svm-kernels)
+- [https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/](https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
+- [Multiclass classification using scikit-learn - GeeksforGeeks](https://www.geeksforgeeks.org/multiclass-classification-using-scikit-learn/?ref=lbp)
+- [https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MinMaxScaler.html)
